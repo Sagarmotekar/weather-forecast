@@ -100,7 +100,7 @@ body {
     font-size: 28px;
     margin-top: -6px;
 }
-@media (max-width: 600px) {
+@media (max-width: 400px) {
     .search {
         width: 60%;
     }
